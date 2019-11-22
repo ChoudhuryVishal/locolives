@@ -1,7 +1,7 @@
 import random
 import requests
 import asyncio
-from discord import Game
+
 from discord.ext.commands import Bot
 import discord
 from discord.ext import commands
