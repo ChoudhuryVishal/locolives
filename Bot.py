@@ -39,7 +39,7 @@ cwd = os.path.dirname(os.path.realpath(__file__))
 
 @client.event
 async def on_ready():
-    await client.change_presence(game=Game(name='with Loco Lives!'))
+    await client.change_presence(game='Game'(name='with Loco Lives!'))
     print("Logged in as " + client.user.name)
     print("Get Loco Lives!")
 
