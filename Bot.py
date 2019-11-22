@@ -236,4 +236,4 @@ async def add_points(users, user, exp, author):
     await client.say("{} gave `{}` points to {}!".format(author, exp, name))
 
 
-client.run("NTM4NTc2NzI3NzU3MDI5Mzk3.Dy10Rw.qlh7uPc_zfUI2uuq2OXe92PYyYI")
+client.run("NjM5NzAwNTIxNjU3MDQwOTE2.XdgBKw.YEL9k_jTAvcrRo9aPtAKX9iD3KE")
